@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Boot Log</string>
+
+    <string name="activity_main_empty">The date and time your device boots will appear here</string>
+
+    <!-- Actions -->
+    <string name="action_about">About</string>
+    <string name="action_filter">Filter</string>
+
+    <!-- Preference keys -->
+    <string name="key_sort_ascending" translatable="false">ascending</string>
+    <string name="key_date_format" translatable="false">dateFormat</string>
+</resources>
